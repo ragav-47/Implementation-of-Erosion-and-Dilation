@@ -1,4 +1,7 @@
-# Implementation of Erosion and Dilation
+### EX NO : 10
+### DATE  : 28.05.2022
+# <p align="center">Implementation of Erosion and Dilation</p>
+
 
 ## AIM:
 To implement Erosion and Dilation using Python and OpenCV.
