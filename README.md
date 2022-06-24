@@ -20,6 +20,8 @@ Erode the image.
 ### Step 5:
 Dilate the image.
 
+<br/><br/><br/><br/><br/>
+
 ## PROGRAM:
 ```
 /*
@@ -56,6 +58,9 @@ plt.axis('off')
 plt.imshow(image_dilate1)
 plt.show()
 ```
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 ## OUTPUT:
 
 ### Display the input Image
